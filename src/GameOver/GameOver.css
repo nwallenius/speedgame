@@ -1,0 +1,33 @@
+#result {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gameoverbox {
+    width: 35%;
+    height: 20%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: beige;
+    border: solid 1px black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.gameoverbox #gameovertext {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+}
+
+.gameoverbox button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+}

@@ -1,0 +1,58 @@
+/*
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 40px 10px 10px 10px;
+    font-size: 3em;
+}
+
+.score {
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+}
+
+.circle {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: solid 1px grey;
+    border-radius: 50%;
+    text-align: center;
+    margin: 20px;
+}
+
+.yellow {
+    background-color: darkgoldenrod;
+}
+
+.red {
+    background-color: darkred;
+}
+
+.green {
+    background-color: darkolivegreen;
+}
+
+.blue {
+    background-color: darkblue;
+}
+
+.buttons {
+    padding: 20px;
+}
+
+button {
+    padding: 8px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+*/
