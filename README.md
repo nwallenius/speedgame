@@ -1,1 +1,1 @@
-This is React app called speedgame.
+Speedgame (React app)
